@@ -6,7 +6,7 @@ import java.util.List;
 
 public class BinaryFileService {
 
-	// Doc noi dung tu file, tra ve List<objects>
+	// Doc noi dung tu file, tra ve List<Objects>
 	public static <T> List<T> readFile(String fileName) {
 		List<T> objects = new ArrayList<>();
 		try (ObjectInputStream file = new ObjectInputStream(new BufferedInputStream(new FileInputStream(fileName)))) {
