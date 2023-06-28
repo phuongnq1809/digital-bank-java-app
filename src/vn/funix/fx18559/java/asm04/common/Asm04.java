@@ -1,3 +1,6 @@
+/*
+* Main Class
+*/
 package vn.funix.fx18559.java.asm04.common;
 
 import vn.funix.fx18559.java.asm04.exception.CustomerIdNotValidException;
