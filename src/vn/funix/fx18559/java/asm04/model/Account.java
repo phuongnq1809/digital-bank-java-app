@@ -1,3 +1,6 @@
+/*
+* Account
+*/
 package vn.funix.fx18559.java.asm04.model;
 
 import vn.funix.fx18559.java.asm04.common.Utilities;
